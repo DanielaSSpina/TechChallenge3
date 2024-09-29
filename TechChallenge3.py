@@ -32,4 +32,4 @@ Em julho passou de 90 mil óbitos e chegou a registrar uma média móvel diária
 Em agostos começa a desaceleração dos óbitos, porém ultrapassou 120 mil mortes até o final do mês.''')
 
 st.subheader('Preparação dos dados')
-st.markdown('Para a preparação dos dados foi essencial realizar algumas consultas e transformações para garantir a qualidade e a consistência dos dados, utilizamos para as transformações os dicionários disponibilizados pelo IBGE, utilizando o PowerBI para realizar conexões de código e significado, para dessa forma conseguirmos extrair as informações do estudo.')
+st.markdown('Para a preparação dos dados foi essencial realizar algumas consultas e transformações para garantir a qualidade e a consistência dos dados, após a etapa de extração via google cloud iniciamos as transformações utilizando o PowerBI para criar uma query com a finalidade de unificar as bases do Excel com o gabarito das respostas e consolidamos em formato de banco de dados. \n Após toda transformação nós consultamos essa base como apoio para transformar os micros dados que estavam em formato numeral')
