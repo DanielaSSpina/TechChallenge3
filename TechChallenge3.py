@@ -15,6 +15,7 @@ st.markdown('Utilizaremos 20 perguntas realizadas pelo IBGE, buscando construir 
 
 st.subheader('Extração dos dados')
 st.markdown('A extração de dados foi realizada a partir da base PNAD COVID-19, disponibilizada pelo IBGE e acessada através da plataforma GoogleCloud. Essa ferramenta permitiu o acesso a grandes volumes de dados de forma fácil. Esta base contém informações sobre os impactos da pandemia de COVID-19 no Brasil, abrangendo aspectos demográficos, socioeconômicos e de saúde.')
+st.image("https://drive.google.com/file/d/1_IueXNQTopO22gij3TGlKsuZp2e6Ojsc/view?usp=drive_link", caption="Criação da tabela")
 st.markdown('Os períodos filtrados para a análise abrangem os meses de junho, julho e agosto de 2020, pelos seguintes motivos:')
 st.markdown('''**•	Infecções:** \n
 Em junho o Brasil já ultrapassava 1 milhão de casos confirmados, com mais de 30 mil novos casos diários em média.
