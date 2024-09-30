@@ -1,6 +1,6 @@
 Prezados, 
 
-Este repositório contém os arquivos e códigos do estudo proposto pela FIAP como parte do projeto de conclusão do terceiro trimestre da pós-graduação em Data Analytics. 
+Este projeto está disponível no [Github DanielaSSPina - TechChallenge3](https://github.com/DanielaSSpina/TechChallenge3), este repositório contém os arquivos e códigos do estudo proposto pela FIAP como parte do projeto de conclusão do terceiro trimestre da pós-graduação em Data Analytics. 
 O estudo faz uma análise do comportamento populacional durante a pandemia de COVID-19.
 
 O projeto foi implementado e está disponível no Streamlit. Vocês podem acessá-lo por meio do seguinte link: [Tech Challenge - Análise Covid-19 2024 - Streamlit](https://techchallenge3-2024-pnadcovid.streamlit.app/)
