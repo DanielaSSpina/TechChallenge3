@@ -7,7 +7,7 @@ O projeto foi implementado e está disponível no Streamlit. Vocês podem acess�
 
 A estrutura do repositório está organizada da seguinte forma:
 
-- A consulta realizada no BQ está no arquivo: X
+- A consulta realizada no Google Cloud está presente no arquivo dados gcp.docx;
 
 - O script usado no Streamlit pode ser consultado no arquivo TechChallenge3.py;
 
