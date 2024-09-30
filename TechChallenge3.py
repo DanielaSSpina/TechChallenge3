@@ -115,3 +115,12 @@ st.markdown('''•	**Investimento em Ciência, Pesquisa e Educação:**
             2 - Capacitação de Profissionais: Expandir a formação de cientistas, médicos e profissionais da saúde, além de apoiar colaborações entre universidades, governo e setor privado para encontrar soluções inovadoras.''')
 st.markdown('Todas essas ações citadas acima, são meios de diminuir a desigualdade social, desinformação e vulnerabilidade tecnológica, afim de termos um mapeamento rápido e deixar toda a linha de decisão ciente antes da doença estar já em estado avançado em toda a população.')
 st.subheader('Bibliografia')
+st.markdown('''1 - Lições e legados do auxílio emergencial para o fortalecimento da proteção social - https://brasil.un.org/pt-br/170560-artigo-li%C3%A7%C3%B5es-e-legados-do-aux%C3%ADlio-emergencial-para-o-fortalecimento-da-prote%C3%A7%C3%A3o-social
+            
+2 - Auxílio emergêncial aprovado pelo congresso - https://www12.senado.leg.br/noticias/materias/2020/12/30/aprovado-pelo-congresso-auxilio-emergencial-deu-dignidade-a-cidadaos-durante-a-pandemia
+            
+3 - Lições e legados do auxílio emergencial - https://brasil.un.org/pt-br/170560-artigo-li%C3%A7%C3%B5es-e-legados-do-aux%C3%ADlio-emergencial-para-o-fortalecimento-da-prote%C3%A7%C3%A3o-social
+
+4 - Dados casos confirmados e óbitos - https://covid.saude.gov.br/
+            
+5 - Principais sintomas covid19 - https://www.gov.br/inss/pt-br/noticias/dengue-ou-covid-sintomas-das-duas-doencas-sao-parecidos-fiquem-alertas-1#:~:text=J%C3%A1%20a%20Covid%2D19%20%C3%A9,e%20dificuldade%20para%20se%20alimentar.''')
