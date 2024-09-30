@@ -114,3 +114,4 @@ st.markdown('''•	**Investimento em Ciência, Pesquisa e Educação:**
             1 - Pesquisa, Desenvolvimento e Educação: Aumentar o investimento na educação para formarmos cada vez mais cientistas e médicos, assim como reforçar o financiamento para pesquisas nas áreas de saúde, vacinas e tratamento de doenças infecciosas, para que o país tenha capacidade de resposta científica rápida em novas pandemias.
             2 - Capacitação de Profissionais: Expandir a formação de cientistas, médicos e profissionais da saúde, além de apoiar colaborações entre universidades, governo e setor privado para encontrar soluções inovadoras.''')
 st.markdown('Todas essas ações citadas acima, são meios de diminuir a desigualdade social, desinformação e vulnerabilidade tecnológica, afim de termos um mapeamento rápido e deixar toda a linha de decisão ciente antes da doença estar já em estado avançado em toda a população.')
+st.subheader('Bibliografia')
